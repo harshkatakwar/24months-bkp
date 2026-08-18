@@ -116,21 +116,5 @@ export const timelineEntries: TimelineEntry[] = [
     location: "",
     image: "/photos/20250819_193314.mp4",
     alt: "Video from Aug 19, 2025"
-  },
-  {
-    date: "2025-08-20",
-    title: "Special Shared Memory",
-    caption: "",
-    location: "",
-    image: "/photos/WhatsApp Image 2025-08-20 at 23.41.26 (4).jpeg",
-    alt: "Memory from Aug 20, 2025"
-  },
-  {
-    date: "2025-08-20",
-    title: "More WhatsApp Memories",
-    caption: "",
-    location: "",
-    image: "/photos/WhatsApp Image 2025-08-20 at 23.41.26.jpeg",
-    alt: "Memory from Aug 20, 2025"
   }
 ];

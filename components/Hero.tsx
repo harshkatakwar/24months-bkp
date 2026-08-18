@@ -28,16 +28,7 @@ export default function Hero() {
 
       {/* Content */}
       <div className="relative z-10 flex max-w-4xl flex-col items-center text-center">
-        {/* Pre-title */}
-        <p
-          className={`mb-6 font-sans text-sm font-medium uppercase tracking-[0.3em] text-warm-gray transition-all duration-1000 ${
-            isVisible
-              ? "translate-y-0 opacity-100"
-              : "translate-y-4 opacity-0"
-          }`}
-        >
-          Since 18 August 2024
-        </p>
+
 
         {/* Main heading */}
         <h1

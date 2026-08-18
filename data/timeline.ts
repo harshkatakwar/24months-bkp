@@ -40,14 +40,14 @@ export const timelineEntries: TimelineEntry[] = [
   {
     date: "2025-01-25",
     title: "Beautiful Moments",
-    caption: "",
+    caption: "you holding our heart",
     location: "",
     image: "/photos/20250125_221427.jpg",
     alt: "Memory from Jan 25, 2025"
   },
   {
     date: "2025-01-25",
-    title: "More Moments Together",
+    title: "More moments together at Coldplay",
     caption: "",
     location: "",
     image: "/photos/20250125_221639.jpg",
@@ -72,7 +72,7 @@ export const timelineEntries: TimelineEntry[] = [
   {
     date: "2025-08-16",
     title: "A Lovely Video",
-    caption: "",
+    caption: "from Swaminarayan mandir",
     location: "",
     image: "/photos/20250816_165747.mp4",
     alt: "Video from Aug 16, 2025"
@@ -85,14 +85,7 @@ export const timelineEntries: TimelineEntry[] = [
     image: "/photos/20250816_170051.jpg",
     alt: "Memory from Aug 16, 2025"
   },
-  {
-    date: "2025-08-16",
-    title: "Captured Moments",
-    caption: "",
-    location: "",
-    image: "/photos/20250816_170246.jpg",
-    alt: "Memory from Aug 16, 2025"
-  },
+
   {
     date: "2025-08-17",
     title: "Fun Animation",
@@ -103,8 +96,8 @@ export const timelineEntries: TimelineEntry[] = [
   },
   {
     date: "2025-08-19",
-    title: "Together",
-    caption: "",
+    title: "Together in Youmee",
+    caption: "having good food while you being sick",
     location: "",
     image: "/photos/20250819_170653.mp4",
     alt: "Video from Aug 19, 2025"

@@ -80,13 +80,7 @@ export default function TimelineEntryCard({
         <div className="flex h-3 w-3 items-center justify-center rounded-full border-2 border-gold bg-cream shadow-sm" />
       </div>
 
-      {/* Mobile date */}
-      <time
-        className="mb-3 ml-14 block font-sans text-xs font-medium uppercase tracking-[0.15em] text-warm-gray md:hidden"
-        dateTime={entry.date}
-      >
-        {formatDate(entry.date)}
-      </time>
+
 
       {/* Content card */}
       <div
@@ -95,13 +89,7 @@ export default function TimelineEntryCard({
         }`}
         style={!isVisible ? {} : { animationDelay: `${index * 80}ms` }}
       >
-        {/* Desktop date */}
-        <time
-          className="mb-3 hidden font-sans text-xs font-medium uppercase tracking-[0.15em] text-warm-gray md:block"
-          dateTime={entry.date}
-        >
-          {formatDate(entry.date)}
-        </time>
+
 
         {/* Photo */}
         {entry.image && (

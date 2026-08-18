@@ -34,6 +34,7 @@ export default function LiveCounter() {
 
   useEffect(() => {
     // Initial calculation on mount (client only)
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setValues(calculateValues());
 
     const interval = setInterval(() => {

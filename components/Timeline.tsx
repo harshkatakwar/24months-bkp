@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { timelineEntries, type TimelineEntry as TimelineEntryType } from "@/data/timeline";
+import { timelineEntries } from "@/data/timeline";
 import TimelineEntryCard from "./TimelineEntry";
 import Lightbox from "./Lightbox";
 

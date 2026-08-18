@@ -31,11 +31,11 @@ export const timelineEntries: TimelineEntry[] = [
   },
   {
     date: "2024-11-27",
-    title: "Short trip to Raipur",
-    caption: "Met in Raipur for a short duration.",
-    location: "Raipur",
+    title: "Short trip to Pune",
+    caption: "Met in Pune for a short duration.",
+    location: "Pune",
     image: "/photos/Snapchat-2122597157.jpg",
-    alt: "Memory in Raipur"
+    alt: "Memory in Pune"
   },
   {
     date: "2025-01-25",
